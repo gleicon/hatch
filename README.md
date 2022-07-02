@@ -1,6 +1,6 @@
 
 ### Experiments with Rust + Kubernetes controllers
-code based on https://github.com/ajavageek/rust-operator plus specifics of colima and tags
+code based on https://github.com/ajavageek/rust-operator and https://github.com/whatisaphone/ingress-status-sync plus specifics of colima and kube tags
 
 ### Local k8s testing with colima (https://github.com/abiosoft/colima - brew install colima)
 
